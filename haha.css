@@ -1,0 +1,44 @@
+#heading {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 80%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 255px;
+  font-size: 86px;
+} 
+
+.menuitems-fb {
+  float: center;
+  font-size: 130%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: beige;
+  margin-top: -529px;
+  font-size: 28px;
+  
+}
+
+.menuitems-in {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 130%;  
+  color: beige;
+  font-size: 28px;    
+}
+.link { 
+  float: right;
+  font-size: 130%;
+  color: beige;
+  margin-top: -230px;
+  text-decoration: none;
+  font-size: 26px;
+}
+.background {
+  background-color: #1b5a45; 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.head {
+   margin: 0 auto;
+}
+.gallery {
+  
+}
